@@ -1,0 +1,12 @@
+adium-theme-ubuntu==0.3.4
+M2Crypto==0.22.6rc4
+meld==3.14.2
+pygobject==3.20.0
+PyMySQL==0.7.9
+pypinyin==0.12.1
+requests==2.10.0
+shadowsocks==2.1.0
+SQLAlchemy==1.1.4
+unity-lens-photos==1.0
+virtualenv==15.0.1
+youtube-dl==2016.2.22
